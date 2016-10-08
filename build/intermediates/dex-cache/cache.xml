@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_76c5e837a4d4c1785fee497ba144935d51c18008\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9ca55f358c5b9162aac382eedccd7285ca2e8fa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_489a3d3c188941ea2678553e655de42a518fe322\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c9157bf07c37c9e62ec1e31b8e5928d9557dd65f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_4aa00af797a85f728417240c435fb2137a69605c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cec414f93d84704897c7b44ba0e49463faa52a53\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_b5357f6b1a5f497b635e8ff2bfbad363ddf29843\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a6ef0bdb28a393f3fa9c4641d0f081c34e9ff2b6">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6f37acae599d46d0931e9dd0d14ca6686f35363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8ac189342f289baa8dfdb1f51b6335ab346f61a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b141853f77e81c5f9c6536b6d1d31b671c8f9159\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f85de3430233aead99199ebfb02ca0134d4b3af5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_854bd006bc43ba253708bd8467a0d7c492490108\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\libs\animgif.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8578764ea76295d4ae08117b127b37564bfdd120">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\2\animgif_a199e1dd640d7d4c08adb67fb4933c4e23f0f046\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_70857168828478535647ce66a1505b77f2a2bad1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f7b78ba9f062c79127f432eb71aecb18cca82179">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_747a50bce1f2237f18a403685ce1b7069ae16e6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3ad5245f646a75538559d3c79cae10d1ba24e45d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\user\Desktop\Android studdio\AlwaysOnTop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_faf2bf9ef561dd3e1fb182770ad95d2d7a6453e4\classes.dex" />
+    </item>
+
+</items>

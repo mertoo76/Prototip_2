@@ -12,6 +12,10 @@
         "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip__gir.xml",
+        "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\src\\main\\res\\layout\\activity_ip__gir.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
     },
@@ -144,12 +148,12 @@
         "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",

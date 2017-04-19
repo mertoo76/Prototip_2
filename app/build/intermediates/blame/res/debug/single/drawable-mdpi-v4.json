@@ -190,5 +190,9 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ik.png",
+        "source": "C:\\Users\\user\\Desktop\\Android studdio\\AlwaysOnTop\\app\\src\\main\\res\\drawable-mdpi\\ik.png"
     }
 ]
